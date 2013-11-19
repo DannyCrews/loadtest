@@ -10,7 +10,7 @@ gem 'rails_12factor', group: :production
 
 gem 'pry-rails'
 
-gem 'loaderio'
+gem 'newrelic_rpm'
 
 
 # Use SCSS for stylesheets
